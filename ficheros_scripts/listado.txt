@@ -6,7 +6,7 @@ usuario19	Windows		26
 usuario10	Linux		15
 usuario5	Linux		12
 usuario1	Windows		31
-usuario14	Windows		2
+usuario14	Windows		28
 usuario4	Windows		32
 usuario8	Linux		7
 usuario12	Linux		43
