@@ -2,6 +2,7 @@
 if [ $# -eq 0 ]
 then
     echo "Por favor, especifique un directorio como parámetro."
+    echo "Uso: ./3.sh (nombre del directorio)"
     exit 1
 fi
 directorio=$1
